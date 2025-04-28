@@ -1,0 +1,8 @@
+[
+    {"name": "A", "filters": 128, "blocks": 10},
+    {"name": "B", "filters": 128, "blocks": 20},
+    {"name": "C", "filters": 128, "blocks": 30},
+    {"name": "D", "filters":  64, "blocks": 20},
+    {"name": "E", "filters": 192, "blocks": 20}
+  ]
+  
